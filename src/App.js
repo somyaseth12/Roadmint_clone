@@ -5,11 +5,10 @@ import Footer from "./Footer";
 import QuoteSection from "./QuoteSection";
 import RoadmintHeroClone from "./RoadmintHeroClone";
 import TriviaSection from "./TriviaSection";
-import StarCanvas from "./StarCanvas";
+
 function App() {
   return (
     <div>
-       <StarCanvas />
       <main className="relative z-10">
         {/* your content */}
       </main>
